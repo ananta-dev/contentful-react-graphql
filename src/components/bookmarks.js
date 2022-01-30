@@ -1,5 +1,5 @@
 function Bookmarks({ bookmarks, headline }) {
-  //   bookmarks.map((bookmark) => console.log(bookmark.sys.id));
+  //   bookmarks.map((bookmark, index) => console.log(index));
 
   return (
     <div>
